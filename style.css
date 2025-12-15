@@ -1,0 +1,21 @@
+html {
+    background-color: #ff69b4;
+}
+
+td {
+    padding: 10px 15px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table {
+    margin: 100px auto;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+{
